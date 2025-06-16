@@ -1,3 +1,7 @@
+# Project has moved
+This repo has moved to https://github.com/IBM/magnolia-reproducer 
+Please head over there for issues, PRs etc.
+
 ## Minimal Magnolia reproducer project
 
 Generated from [Magnolia's project and module archetypes](https://docs.magnolia-cms.com/product-docs/6.3/developing/development-how-tos/how-to-use-magnolia-maven-archetypes/), and then added a JUnit5 integration-test with [IBM iX' MagnoliaTomcatExtension](https://github.com/IBM/magkit-test/tree/main/magkit-test-server#using-the-junit5-extension).
